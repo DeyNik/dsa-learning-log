@@ -5,5 +5,5 @@ Perks - It includes no AI written answers :)
 
 ## Pre requisite
 - Python Fundamentals
-- Dsa Foundations [Grokking Algorithms](./resources/grokking-algorithms-illustrated-programmers-curious.pdf)
+- Dsa Foundations [Grokking Algorithms](./Resources/grokking-algorithms-illustrated-programmers-curious.pdf)
   
