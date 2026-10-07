@@ -28,7 +28,7 @@ def main():
     array = []
     n = int(input("Enter length of array: "))
 
-    for item in range(0, n):
+    for item in range(n):
         array.append(int(input("Enter Element: ")))
 
     print(sort_an_array(array))
