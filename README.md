@@ -2,7 +2,7 @@
 
 My personal **Data Structures & Algorithms** learning repository.
 
-It contains structured notes, Python implementations, flowcharts, and problem solutions based on **[Labuladong's Algorithm Roadmap](https://labuladong.online/en/roadmap/algo/)**, along with problems from **Aditya Verma, LeetCode, and NeetCode**.
+It contains structured notes, Python implementations, flowcharts, and problem solutions,, along with problems from  **[Labuladong's Algorithm Roadmap](https://labuladong.online/en/roadmap/algo/)** **Aditya Verma, and NeetCode**.
 
 All solutions and implementations are written in **Python**.
 
