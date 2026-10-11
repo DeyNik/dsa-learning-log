@@ -2,8 +2,7 @@
 
 My personal **Data Structures & Algorithms** learning repository.
 
-It contains structured notes, Python implementations, flowcharts, and problem solutions,, along with problems from  **[Labuladong's Algorithm Roadmap](https://labuladong.online/en/roadmap/algo/)** **Aditya Verma, and NeetCode**.
-
+It contains structured notes of Data Structures and Algorithms. Throughout the course I have referred to many resources and have recorded them here.
 All solutions and implementations are written in **Python**.
 
 ---
@@ -11,28 +10,26 @@ All solutions and implementations are written in **Python**.
 ## Prerequisites
 
 - **Python Fundamentals**
-- **DSA Foundations:** [Grokking Algorithms](./Resources/grokking-algorithms-illustrated-programmers-curious.pdf)
 
-### **Quick Reference**
+### **Data Structures**
+Data Structures are divided into linear and non linear. It is necesssary that the crud operations corresponding each is mastered before stepping into algorithms or interview question solving techniques.
 
-A small collection of implementations for common **ADTs and data structures**.
-These are reference implementations, not a separate prerequisite.
+The Linear data strcuture contains -  Arrays , Linked List, Stack and queue. The following ADTs or Abstarct data structures breaks them down and additionally include python focused data structures.
 
-#### ADTs
+#### Linear
 
-- [List / Sequence](./Reference/ADT/list.ipynb)
+- [Arrays /List / Sequence](./Reference/ADT/list.ipynb)
 - [Stack](./Reference/ADT/stack.ipynb)
 - [Queue](./Reference/ADT/queue.ipynb)
 - [Deque](./Reference/ADT/deque.ipynb)
 - [Set](./Reference/ADT/set.ipynb)
 - [Map / Dictionary](./Reference/ADT/map.ipynb)
 - [Priority Queue](./Reference/ADT/priority_queue.ipynb)
-
-#### Core Data Structures
-
 - [Dynamic Array](./Reference/dynamic_array.ipynb)
 - [Linked List](./Reference/linked_list.ipynb)
 - [Doubly Linked List](./Reference/doubly_linked_list.ipynb)
+
+### Non Linear
 - [Hash Table](./Reference/hash_table.ipynb)
 - [Binary Tree](./Reference/binary_tree.ipynb)
 - [Binary Search Tree](./Reference/binary_search_tree.ipynb)
