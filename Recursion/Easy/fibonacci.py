@@ -6,7 +6,7 @@ def fibonacci(n):
 
 
 def main():
-    n = int(input("Enter a number to caluculate its fibonacci: "))
+    n = int(input("Enter a number to calculate its fibonacci: "))
 
     print(fibonacci(n))
 
