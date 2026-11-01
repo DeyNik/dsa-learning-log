@@ -39,54 +39,7 @@ The Linear data strcuture contains -  Arrays , Linked List, Stack and queue. The
 
 ---
 
-## Roadmap
 
-The roadmap follows the general structure of **[Labuladong's Algorithm Roadmap](https://labuladong.online/en/roadmap/algo/)**, while the repository tracks my own progress through it.
-
-```mermaid
-flowchart LR
-
-    F["01 · Foundations
-    Complexity
-    Recursion"]
-
-    D["02 · Data Structures
-    Arrays
-    Linked Lists
-    Stack / Queue
-    Hashing"]
-
-    T["03 · Trees
-    Binary Trees
-    Traversal
-    BST
-    Heap
-    Trie"]
-
-    G["04 · Graphs
-    DFS / BFS
-    Union-Find
-    Topological Sort
-    Shortest Path
-    MST"]
-
-    A["05 · Algorithms
-    Binary Search
-    Sorting
-    Divide & Conquer
-    Greedy
-    Dynamic Programming"]
-
-    P["06 · Problem Solving
-    Backtracking
-    Two Pointers
-    Sliding Window
-    Prefix Sum
-    Monotonic Stack
-    Intervals"]
-
-    F --> D --> T --> G --> A --> P
-```
 
 ## Data Structures
 
@@ -109,7 +62,7 @@ flowchart LR
 - [Dynamic Programming](./Algorithms/DynamicProgramming/)
 
 ## Resources
-
+- MIT 6.006
 - [Grokking Algorithms](./Resources/grokking-algorithms-illustrated-programmers-curious.pdf)
 - [Labuladong Algorithm Roadmap](https://labuladong.online/en/roadmap/algo/)
 - [Aditya Verma](./Resources/aditya-verma.md)
